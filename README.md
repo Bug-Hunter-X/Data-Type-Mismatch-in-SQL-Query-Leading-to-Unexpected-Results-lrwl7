@@ -1,0 +1,1 @@
+This repository contains a simple SQL query that demonstrates a common error caused by a data type mismatch between the query's WHERE clause and the table's column data type. The bug and its solution are provided in separate SQL files.
